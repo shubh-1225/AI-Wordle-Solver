@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="420" viewBox="0 0 820 420">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="410.0" y="28" text-anchor="middle" font-size="16" font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#111827">Guess-count distribution for opener soare (maximum entropy)</text>
+  <line x1="70" y1="48" x2="70" y2="350" stroke="#6B7280"/>
+  <line x1="70" y1="350" x2="796" y2="350" stroke="#6B7280"/>
+  <text x="18" y="199.0" transform="rotate(-90 18 199.0)" text-anchor="middle" font-size="12" fill="#374151">Games (of 2,315)</text>
+  <rect x="124.4" y="339.1" width="90.8" height="10.9" fill="#3B82F6"/><text x="169.8" y="331.1" text-anchor="middle" font-size="12" fill="#111827">44</text><text x="169.8" y="384.0" text-anchor="middle" font-size="13" fill="#111827">2</text><rect x="269.6" y="48.0" width="90.8" height="302.0" fill="#3B82F6"/><text x="315.0" y="40.0" text-anchor="middle" font-size="12" fill="#111827">1216</text><text x="315.0" y="384.0" text-anchor="middle" font-size="13" fill="#111827">3</text><rect x="414.8" y="103.9" width="90.8" height="246.1" fill="#3B82F6"/><text x="460.2" y="95.9" text-anchor="middle" font-size="12" fill="#111827">991</text><text x="460.2" y="384.0" text-anchor="middle" font-size="13" fill="#111827">4</text><rect x="560.0" y="334.4" width="90.8" height="15.6" fill="#3B82F6"/><text x="605.4" y="326.4" text-anchor="middle" font-size="12" fill="#111827">63</text><text x="605.4" y="384.0" text-anchor="middle" font-size="13" fill="#111827">5</text><rect x="705.2" y="349.8" width="90.8" height="0.2" fill="#3B82F6"/><text x="750.6" y="341.8" text-anchor="middle" font-size="12" fill="#111827">1</text><text x="750.6" y="384.0" text-anchor="middle" font-size="13" fill="#111827">6</text>
+</svg>

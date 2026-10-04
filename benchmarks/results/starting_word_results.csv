@@ -1,0 +1,6 @@
+rank,opener,in_answer_list,first_guess_entropy_bits,games,wins,failed,win_rate,average_guesses,median_guesses,worst_case_guesses,guesses_1,guesses_2,guesses_3,guesses_4,guesses_5,guesses_6,elapsed_seconds
+1,reast,False,5.865457,2315,2315,0,1.0000,3.437149,3.0,5,0,69,1221,969,56,0,92.874
+2,soare,False,5.885960,2315,2315,0,1.0000,3.464795,3.0,6,0,44,1216,991,63,1,93.654
+3,roate,False,5.882779,2315,2315,0,1.0000,3.467387,3.0,5,0,54,1170,1046,45,0,94.528
+4,raile,False,5.865710,2315,2315,0,1.0000,3.468683,3.0,5,0,50,1177,1041,47,0,94.588
+5,raise,True,5.877910,2315,2315,0,1.0000,3.471706,3.0,6,1,57,1173,1019,63,2,93.913
